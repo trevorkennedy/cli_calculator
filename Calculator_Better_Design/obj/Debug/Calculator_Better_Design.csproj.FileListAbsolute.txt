@@ -1,0 +1,10 @@
+C:\Users\Trevor\Dropbox\Villanova\Calculator_Better_Design\Calculator_Better_Design\bin\Debug\Calculator_Better_Design.exe.config
+C:\Users\Trevor\Dropbox\Villanova\Calculator_Better_Design\Calculator_Better_Design\bin\Debug\Calculator_Better_Design.exe
+C:\Users\Trevor\Dropbox\Villanova\Calculator_Better_Design\Calculator_Better_Design\bin\Debug\Calculator_Better_Design.pdb
+C:\Users\Trevor\Dropbox\Villanova\Calculator_Better_Design\Calculator_Better_Design\obj\Debug\Calculator_Better_Design.Calculator.resources
+C:\Users\Trevor\Dropbox\Villanova\Calculator_Better_Design\Calculator_Better_Design\obj\Debug\Calculator_Better_Design.Properties.Resources.resources
+C:\Users\Trevor\Dropbox\Villanova\Calculator_Better_Design\Calculator_Better_Design\obj\Debug\Calculator_Better_Design.csproj.GenerateResource.cache
+C:\Users\Trevor\Dropbox\Villanova\Calculator_Better_Design\Calculator_Better_Design\obj\Debug\Calculator_Better_Design.csproj.CoreCompileInputs.cache
+C:\Users\Trevor\Dropbox\Villanova\Calculator_Better_Design\Calculator_Better_Design\obj\Debug\Calculator_Better_Design.exe
+C:\Users\Trevor\Dropbox\Villanova\Calculator_Better_Design\Calculator_Better_Design\obj\Debug\Calculator_Better_Design.pdb
+C:\Users\Trevor\Dropbox\Villanova\Calculator_Better_Design\Calculator_Better_Design\obj\Debug\Calculator_Better_Design.csprojAssemblyReference.cache

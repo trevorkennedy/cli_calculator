@@ -1,0 +1,12 @@
+C:\Users\Trevor\Dropbox\Villanova\Calculator_Better_Design\Logic_Interfaces\bin\Debug\Logic_Interfaces.dll
+C:\Users\Trevor\Dropbox\Villanova\Calculator_Better_Design\Logic_Interfaces\bin\Debug\Logic_Interfaces.pdb
+C:\Users\Trevor\Dropbox\Villanova\Calculator_Better_Design\Logic_Interfaces\obj\Debug\Logic_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Trevor\Dropbox\Villanova\Calculator_Better_Design\Logic_Interfaces\obj\Debug\Logic_Interfaces.dll
+C:\Users\Trevor\Dropbox\Villanova\Calculator_Better_Design\Logic_Interfaces\obj\Debug\Logic_Interfaces.pdb
+C:\Users\Trevor\Dropbox\Villanova\Calculator_Better_Design\Logic_Interfaces\obj\Debug\Logic_Interfaces.csprojAssemblyReference.cache
+C:\Users\trevor\Desktop\Kennedy_Calculator_Better_Design\Calculator_Better_Design\Logic_Interfaces\bin\Debug\Logic_Interfaces.dll
+C:\Users\trevor\Desktop\Kennedy_Calculator_Better_Design\Calculator_Better_Design\Logic_Interfaces\bin\Debug\Logic_Interfaces.pdb
+C:\Users\trevor\Desktop\Kennedy_Calculator_Better_Design\Calculator_Better_Design\Logic_Interfaces\obj\Debug\Logic_Interfaces.csprojAssemblyReference.cache
+C:\Users\trevor\Desktop\Kennedy_Calculator_Better_Design\Calculator_Better_Design\Logic_Interfaces\obj\Debug\Logic_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\trevor\Desktop\Kennedy_Calculator_Better_Design\Calculator_Better_Design\Logic_Interfaces\obj\Debug\Logic_Interfaces.dll
+C:\Users\trevor\Desktop\Kennedy_Calculator_Better_Design\Calculator_Better_Design\Logic_Interfaces\obj\Debug\Logic_Interfaces.pdb
